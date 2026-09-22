@@ -30,7 +30,7 @@ A Python web-scraping project that collects book information from Books to Scrap
 ```text
 book-scraper-data-pipeline/
 │
-├── scraper.py
+├── books_scraper.py
 ├── analyze_books.py
 ├── export_csv.py
 ├── database.py
